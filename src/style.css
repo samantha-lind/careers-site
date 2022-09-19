@@ -435,7 +435,7 @@ nav a {
   .mobile-menu {
     display: flex;
     font-weight: 500;
-    padding-left: -10px;
+    margin-left: -20px;
   }
 
   .navigation {
