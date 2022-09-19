@@ -48,16 +48,16 @@ li {
   transition: all 100ms ease-in-out;
 }
 
-nav a {
-  text-decoration: none;
-  color: unset;
-}
-
 a {
   color: unset;
 }
 
 /* navigation section */
+nav a {
+  text-decoration: none;
+  color: unset;
+}
+
 .navigation {
   display: flex;
   flex-direction: row;
@@ -210,7 +210,6 @@ a {
 }
 
 /*reviews section*/
-
 .reviews {
   display: flex;
   flex-direction: column;
