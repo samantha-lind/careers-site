@@ -18,8 +18,9 @@ No designs were provided for a mobile layout, so I've added a pop-up menu and ch
 
 <h3>Testing</h3>
 This website has been tested on:
-<ul>
+
   <strong>Desktop: Windows & Mac</strong>
+  <ul>
   <li>Edge 105, 104</li>
   <li>Firefox 104, 103</li>
   <li>Chrome 105, 104</li>
@@ -27,14 +28,14 @@ This website has been tested on:
   <li>Safari 15.3</li>
  </ul>
  
+ <strong>Mobile: iOS</strong>
  <ul>
-  <strong>Mobile: iOS</strong>
   <li>Chrome and Safari 16, 15</li>
  </ul>
  
+   <strong>Mobile: Android</strong>
   <ul>
-  <strong>Mobile: Android</strong>
-  <li>Chromeand Firefox 13, 12, 11</li>
+  <li>Chrome and Firefox 13, 12, 11</li>
   <li>Samsung 12, 11</li>
  </ul>
 
